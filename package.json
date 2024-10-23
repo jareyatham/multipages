@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "dependencies": {
+    "deploy": "^1.0.3",
+    "gh": "^2.8.9"
+  }
+}
